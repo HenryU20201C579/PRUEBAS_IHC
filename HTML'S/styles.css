@@ -95,3 +95,13 @@ header {
     object-fit: cover;
     width: 100%;
 }
+
+.login {
+    padding: 2%;
+    width: 100%;
+    max-width: 18.75rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
